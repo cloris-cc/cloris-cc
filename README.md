@@ -6,6 +6,6 @@
 
 🌱 HOPE U GUYS HAVE A GOOD DAY 
 
-🍃 Contact me by Email: jacky.teamwang@qq.com | clorisforcoding@gmail.com
+🍃 Here is my personal website [WinkLog ^ ^](https://teamwang.cn/) and my [LeetCode](https://leetcode-cn.com/u/teamwang/)
 
-🍂 Here is my [LeetCode](https://leetcode-cn.com/u/teamwang/)
+🍂 Contact me by Email: jacky.teamwang@qq.com | clorisforcoding@gmail.com
