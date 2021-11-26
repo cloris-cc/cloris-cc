@@ -1,3 +1,5 @@
+![](https://github-readme-stats.vercel.app/api?username=cloris-cc&count_private=true&show_icons=true&theme=gruvbox)
+
 ### 💬 HI
 
 - THE WORLD IS YOURS
